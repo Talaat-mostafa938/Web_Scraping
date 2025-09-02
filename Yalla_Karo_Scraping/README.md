@@ -7,7 +7,7 @@ The app allows users to:
 -Display results in a table format.
 -Download the data as a CSV file.
 
-###⚙️ Features
+### ⚙️ Features
 ✔️ Select date (Day / Month / Year)
 ✔️ Scrape Championship name, Teams, Result, and Time
 ✔️ Display data interactively using Streamlit
