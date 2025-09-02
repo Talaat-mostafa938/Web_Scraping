@@ -2,7 +2,7 @@
 ### 📌 Overview
 This project is a Web Scraping Application built with Streamlit to extract daily football match results from YallaKora.
 
-The app allows users to:
+### 📌The app allows users to:
 
 -Select a specific day, month, and year.
 
