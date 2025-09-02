@@ -22,7 +22,7 @@ This project is a Web Scraping Application built with Streamlit to extract daily
 
 ✔️ Export results into a CSV file
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 -Python
 
